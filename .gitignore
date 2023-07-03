@@ -1,0 +1,12 @@
+# Files and directories starting with "_"
+[_]*
+
+# Images
+!/_images
+
+# Maven
+/target
+
+# Gradle
+.gradle
+/build
